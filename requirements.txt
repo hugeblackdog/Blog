@@ -1,4 +1,4 @@
-Django==3.0.3
+Django==3.1.12
 Markdown==3.2.1
 Pygments==2.4.2
 PyMySQL==0.9.3
